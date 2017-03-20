@@ -1,0 +1,91 @@
+.sq1-vdp-js .share-with-labels {
+    display: none;
+}
+
+.sq1-vdp-js .certified, .sq1-vdp .autocheck {
+    display: none;
+}
+
+.sq1-vdp-js .contact-info h3 {
+    display: none;
+}
+
+.sq1-vdp-js .inventory-detail-pricing h3 {
+    text-align: center;
+}
+
+.sq1-vdp-js .inventory-detail-pricing .label {
+    font-size: 1.2em;
+}
+
+.sq1-vdp-js .inventory-detail-pricing .askingPrice .price.h1 {
+    font-size: 1.2em;
+    color: grey;
+}
+
+.sq1-vdp-js .inventory-detail-pricing .final-price .price.h1 {
+    font-size: 1.4em;
+}
+
+.sq1-vdp-js .inventory-detail-pricing li.monthlyPayment {
+    padding-top: 0;
+}
+
+.inventory-detail-pricing .monthlyPayment strong {
+    font-size: .6em;
+    font-style: italic;
+    color: grey;
+}
+
+.sq1-vdp-js .inventory-detail-pricing .monthlyPayment .perMonthLabel {
+    font-size: .6em;
+    color: grey;
+}
+
+.sq1-vdp-js .inventory-detail-pricing .monthlyPayment p {
+    font-style: italic;
+}
+
+.sq1-vdp-js .inventory-detail-pricing ul.pricing li:nth-child(3) {
+    display: none;
+}
+
+.sq1-vdp-js  .inventory-detail-pricing a.calculate {
+    color: grey;
+    text-decoration: underline;
+    font-weight: normal;
+    font-size: .7em;
+    background: none;
+    text-shadow: none;
+}
+
+.sq1-vdp-js .inventory-detail-pricing, .sq1-vdp-js .inventory-detail-incentives-listing, .sq1-vdp-js .testDrive, .sq1-vdp-js .contact-info {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.sq1-vdp-js .inventory-detail-incentives-listing {
+    padding-top: 0;
+}
+
+.sq1-vdp-js li.monthlyPayment p {
+    font-size: .6em;
+}
+
+.sq1-vdp-js .testDrive a.dialog {
+    font-weight: bold;
+}
+
+.sq1-vdp-js .contact-info li.tel.phone1 {
+    font-size: .8em;
+    color: #0d65bf;
+    padding-top: 5px;
+}
+
+.sq1-vdp-js .tradein {
+    padding-top: 0;
+}
+
+.sq1-vdp-js .tradein a {
+    padding-bottom: 10px;
+}

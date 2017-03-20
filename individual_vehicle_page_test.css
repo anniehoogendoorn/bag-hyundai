@@ -1,0 +1,91 @@
+.sq1-vdp .share-with-labels {
+    display: none;
+}
+
+.sq1-vdp .certified, .sq1-vdp .autocheck {
+    display: none;
+}
+
+.sq1-vdp .contact-info h3 {
+    display: none;
+}
+
+.sq1-vdp .inventory-detail-pricing h3 {
+    text-align: center;
+}
+
+.sq1-vdp .inventory-detail-pricing .label {
+    font-size: 1.2em;
+}
+
+.sq1-vdp .inventory-detail-pricing .askingPrice .price.h1 {
+    font-size: 1.2em;
+    color: grey;
+}
+
+.sq1-vdp .inventory-detail-pricing .final-price .price.h1 {
+    font-size: 1.4em;
+}
+
+.inventory-detail-pricing .monthlyPayment strong {
+    font-size: .6em;
+    font-style: italic;
+    color: grey;
+}
+
+.inventory-detail-pricing .monthlyPayment .perMonthLabel {
+    font-size: .6em;
+    color: grey;
+}
+
+.sq1-vdp a.ddc-btn {
+    display: inline-block;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding: 8px 12px;
+}
+
+.sq1-vdp .ddc-btn-default:after {
+    font-size: 14px;
+}
+
+.sq1-vdp .inventory-detail-pricing a.calculate {
+    color: grey;
+    text-decoration: underline;
+    font-weight: normal;
+    font-size: .7em;
+    background: none;
+    text-shadow: none;
+}
+
+.inventory-detail-pricing, .inventory-detail-incentives-listing, .testDrive, .contact-info {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.inventory-detail-incentives-listing {
+    padding-top: 0;
+}
+
+li.monthlyPayment p {
+    font-size: .6em;
+}
+
+.contact-info li.tel.phone1 {
+    font-size: .8em;
+    color: #0d65bf;
+    padding-top: .4em;
+}
+
+.tradein {
+    padding-top: 0;
+}
+
+.tradein a {
+    padding-bottom: .7em;
+}
+
+.inventory-detail-pricing ul.pricing li:nth-child(3) {
+  display: none;
+}

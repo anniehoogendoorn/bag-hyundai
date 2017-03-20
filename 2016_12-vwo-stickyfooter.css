@@ -1,0 +1,67 @@
+#carcodesms-default-widget {
+    display: none;
+}
+
+.cta-btns-container {
+    position: fixed;
+    bottom: 0;
+    z-index: 999999999;
+    width: 100%;
+    border-top: 1px solid #0c5daf;
+    box-shadow: 0 0 10px #1c224c;
+    border-bottom: 4px solid #1c224c;
+}
+
+.cta-btns-container .cta-btn:first-of-type {
+    border-right: 1px solid #2e387e;
+}
+
+.cta-btns-container .cta-btn:last-of-type {
+    border-left: 1px solid #2e387e;
+}
+
+a.cta-btn {
+    background: #0c5daf;
+    background-image: -webkit-linear-gradient(top, #0c5daf 0%, #2f3b88 100%);
+    background-image: -moz-linear-gradient(top, #0d65bf 0%, #2f3b88 100%);
+    background-image: -o-linear-gradient(top, #0d65bf 0%, #2f3b88 100%);
+    background-image: linear-gradient(top, #0d65bf 0%, #2f3b88 100%);
+    padding: 5px;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    height: 60px;
+}
+
+.cta-btn_text {
+    display: inline;
+    text-decoration: none;
+    font-size: 1em;
+    line-height: .4em;
+    letter-spacing: 0.08em;
+}
+
+.cta-btn i {
+    float: left;
+}
+
+.cta-btn i.fa-calendar-check-o {
+    font-size: 2.6em;
+    padding: 0 5px 0 0;
+}
+
+.cta-btn i.fa-phone {
+    font-size: 2.8em;
+    padding: 0 9px 0 0;
+}
+
+@media  (min-width: 769px) {
+  .cta-btns-container {
+    display: none;
+  }
+}
