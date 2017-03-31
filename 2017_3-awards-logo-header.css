@@ -1,0 +1,28 @@
+.ddc-header .header-default .vcard img {
+  width: 50px;
+  float: right;
+  margin: 40px 0 0 0;
+  padding-left: 10px;
+}
+
+/*Version with text*/
+
+.header-award {
+  margin-top: 50px;
+}
+
+.header-award img {
+  width: 40px;
+  margin-left: 10px;
+  float: right;
+
+}
+
+.header-award p {
+  float: right;
+  text-align: right;
+  font-size: .7em;
+  font-style:italic;
+  padding-top: 10px;
+  color: #aaa;
+}
